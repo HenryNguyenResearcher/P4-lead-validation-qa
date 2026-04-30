@@ -6,7 +6,7 @@
 
 ## Problem
 
-Fulfilment VA teams manually review each lead record to check completeness and accuracy before handing off to clients - a process prone to human error and inconsistency, especially at scale. A single missed field or broken LinkedIn URL can damage client trust.
+Fulfilment VA teams manually review each lead record to check completeness and accuracy before handing off to clients : a process prone to human error and inconsistency, especially at scale. A single missed field or broken LinkedIn URL can damage client trust.
 
 ## Solution
 

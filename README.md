@@ -6,7 +6,7 @@
 
 ## Problem
 
-Fulfilment VA teams manually review each lead record to check completeness and accuracy before handing off to clients — a process prone to human error and inconsistency, especially at scale. A single missed field or broken LinkedIn URL can damage client trust.
+Fulfilment VA teams manually review each lead record to check completeness and accuracy before handing off to clients - a process prone to human error and inconsistency, especially at scale. A single missed field or broken LinkedIn URL can damage client trust.
 
 ## Solution
 
@@ -40,10 +40,10 @@ A Python pipeline that ingests raw lead data (CSV), applies a 7-point validation
 
 ## Output
 
-`output/validated_leads.xlsx` — two sheets:
+`output/validated_leads.xlsx` - two sheets:
 
-1. **Validated Leads** — full record with QA Status, Confidence Score, Flags, colour-coded rows
-2. **QA Summary** — aggregate metrics for client reporting
+1. **Validated Leads** - full record with QA Status, Confidence Score, Flags, colour-coded rows
+2. **QA Summary** - aggregate metrics for client reporting
 
 ## How to Run
 

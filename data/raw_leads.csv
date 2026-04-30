@@ -1,0 +1,16 @@
+id,first_name,last_name,job_title,company,location,linkedin_url,email,notes
+1,James,Carter,CEO,Apex Solutions,New York NY,https://linkedin.com/in/jamescarter-apex,,
+2,sarah,lee,marketing manager,brightwave inc,Los Angeles CA,https://linkedin.com/in/sarah-lee-mktg,sarah@brightwave.com,
+3,Robert,Kim,,Nexus Digital,Chicago IL,https://linkedin.com/in/robertkim,,Title missing
+4,Amanda,Torres,VP of Sales,ClearPath Group,Austin TX,,amanda.torres@clearpath.com,No LinkedIn
+5,Michael,Brown,Director of Operations,Innovatech,San Francisco CA,https://linkedin.com/in/michael-brown,,
+6,Jessica,Wong,Head of Growth,Sprout Media,Seattle WA,https://linkedin.com/in/jessicawong-sprout,jessica@sproutmedia.com,
+7,,Davis,CFO,Summit Financial,Boston MA,https://linkedin.com/in/davis-summit,,First name missing
+8,Daniel,Nguyen,Product Manager,CoreLogic,Denver CO,https://linkedin.com/in/danielnguyen-cl,,
+9,Emily,Zhang,HR Director,,Portland OR,https://linkedin.com/in/emily-zhang-hr,,Company missing
+10,Chris,Anderson,CTO,BlueRidge Tech,Nashville TN,https://linkedin.com/in/chrisanderson-brt,chris@blueridgetech.com,
+11,Megan,Hall,Account Executive,Vertex Group,Miami FL,https://linkedin.com/in/meganhall,,
+12,Thomas,Martin,VP of Engineering,DataStream,Austin TX,https://linkedin.com/in/thomas-martin-ds,thomas@datastream.io,
+13,Rachel,Scott,Operations Manager,Pinnacle Corp,Phoenix AZ,,,Both LinkedIn and email missing
+14,Kevin,White,Sales Director,Momentum Digital,Chicago IL,https://linkedin.com/in/kevinwhite-momentum,,
+15,Laura,Johnson,Chief Marketing Officer,Redwood Agency,San Francisco CA,https://linkedin.com/in/laurajohnson-redwood,laura@redwoodagency.com,

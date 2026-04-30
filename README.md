@@ -1,6 +1,6 @@
 # Lead Validation & QA Pipeline
 
-**Automated QA system for LinkedIn lead research — processes 15 leads, scores confidence 0–100, flags incomplete records in under 1 second.**
+**Automated QA system for LinkedIn lead research processes 15 leads, scores confidence 0–100, flags incomplete records in under 1 second.**
 
 ---
 
